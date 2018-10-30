@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_US]=/home/igor/Dropbox/projects/Evolução/treelife.png
+Name[en_US]=Evolution
+Exec=/home/igor/Desktop/Dropbox/projects/Evolução/run/Evolution.py
+Comment[en_US]=by Igor Peretta, 2018
+Name=Evolution
+Comment=by Igor Peretta, 2018
+Icon=/home/igor/Dropbox/projects/Evolução/treelife.png
